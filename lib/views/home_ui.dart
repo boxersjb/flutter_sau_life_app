@@ -28,7 +28,7 @@ class HomeUi extends StatelessWidget {
             ),
 
             Text(
-              'Rao ja tay kan morddddd',
+              'Welcome to SAU',
               style: TextStyle(
                 fontSize: 25,
                 fontWeight: FontWeight.bold,
@@ -36,7 +36,7 @@ class HomeUi extends StatelessWidget {
             ),
 
             Text(
-              'เราจะตายกันหมด',
+              'ยินดีต้อนรับเข้าสู่มหาลัยเอเชัยอาคเนย์',
               style: TextStyle(
                 fontSize: 20,
                 //fontWeight: FontWeight.bold,
@@ -45,7 +45,7 @@ class HomeUi extends StatelessWidget {
             ),
 
             Text(
-              'อวสานนนน',
+              'Created by Boxers',
               style: TextStyle(
                 fontSize: 20,
                 fontWeight: FontWeight.bold,
